@@ -5,7 +5,7 @@ This project is a simple static website for the Ascendency platform and Botema e
 ## 1. Open the project folder
 
 ```bash
-cd "/home/tory/Vivid Insight/New concept"
+cd "/project folder"
 ```
 
 ## 2. Start a local web server
@@ -27,7 +27,7 @@ http://localhost:8000
 The Botema experience is in the `botema` folder. You can also serve that folder directly:
 
 ```bash
-cd "/home/tory/Vivid Insight/New concept/botema"
+cd "/project folder"
 python3 -m http.server 8005
 ```
 
